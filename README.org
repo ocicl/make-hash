@@ -1,0 +1,10 @@
+* make-hash
+
+A Common Lisp package for hash table creation with flexible, extensible initializers.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/genovese/make-hash.git   |
+| commit  | ae0909c  |
+| systems | make-hash |
+|---------+-------------------------------------------|
+
