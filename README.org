@@ -8,4 +8,4 @@ A Common Lisp package for hash table creation with flexible, extensible initiali
 | systems | make-hash |
 |---------+-------------------------------------------|
 
- 
+  
